@@ -1,5 +1,5 @@
 # ion_chromatograph
-My thesis on modelling Ion Chromatography system for The Kazan State Technical University, Department: Technical Cybernetics and Informatic.
+My thesis on modelling [Ion Chromatography](https://en.wikipedia.org/wiki/Ion_chromatography) system for The Kazan State Technical University, Department: Technical Cybernetics and Informatics.
 
 This thesis was defended on 2009 as final challenge for obtaining Master degree in Specialty: #230101 "The Computing machines, complexes, systems and networks"
 
